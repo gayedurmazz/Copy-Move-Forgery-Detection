@@ -8,6 +8,8 @@ Before you run the copyMove.m file, you must update the path of the original ima
 
 Images to be used for detection must be 256 * 256 in size.
 
+The sample pictures with the "gj90" extension are compressed images.
+
 The previously written function of the matlab programming platform was used for zigzag scanning [zigzag.m](https://www.mathworks.com/matlabcentral/fileexchange/15317-zigzag-scan).
  
 
